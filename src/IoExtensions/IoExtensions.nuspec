@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Simon Baynes</authors>
+    <owners>Simon Baynes</owners>
+    <projectUrl>https://github.com/baynezy/IoExtensions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library of IO extension methods.</description>
+    <copyright>Copyright 2014</copyright>
+    <tags>IO Extensions</tags>
+	<dependencies>
+		<group>
+			<dependency id="LinqExtensions" />
+		</group>
+	</dependencies>
+  </metadata>
+</package>
