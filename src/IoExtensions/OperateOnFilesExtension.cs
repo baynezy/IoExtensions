@@ -1,6 +1,6 @@
 ﻿using System;
 using System.IO;
-using LinqExtensions;
+using System.Linq;
 
 namespace IoExtensions
 {
@@ -8,7 +8,7 @@ namespace IoExtensions
 	{
 		public static void OperateOnFiles(this DirectoryInfo directory, string search, Action<FileInfo> action)
 		{
-			directory.EnumerateFiles(search).Each(action.Invoke);
+			directory.EnumerateFiles(search).ToList().ForEach(action.Invoke);
 		}
 	}
 }
