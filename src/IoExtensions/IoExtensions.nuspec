@@ -11,10 +11,5 @@
     <description>Library of IO extension methods.</description>
     <copyright>Copyright 2014</copyright>
     <tags>IO Extensions</tags>
-	<dependencies>
-		<group>
-			<dependency id="LinqExtensions" />
-		</group>
-	</dependencies>
   </metadata>
 </package>
