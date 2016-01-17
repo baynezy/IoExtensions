@@ -8,7 +8,7 @@
     <owners>Simon Baynes</owners>
     <projectUrl>https://github.com/baynezy/IoExtensions</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Library of IO extension methods.</description>
+    <description>Library of IO extension methods for .Net.</description>
     <copyright>Copyright 2014</copyright>
     <tags>IO Extensions</tags>
   </metadata>
