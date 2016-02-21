@@ -2,6 +2,8 @@
 
 A Library or extensions for File Operations in .Net
 
+[![Stories in Ready](https://badge.waffle.io/baynezy/IoExtensions.svg?label=ready&title=Stories%20in%20Ready)](http://waffle.io/baynezy/IoExtensions)
+
 ## Build Status
 
 <table>
