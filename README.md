@@ -24,3 +24,6 @@ A Library or extensions for File Operations in .Net
 ### Install
 
     PM> Install-Package IoExtensions
+
+## License
+This project is licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
